@@ -29,33 +29,21 @@ public class Uni4Exe27 {
             total = 60;
         } else if ((int) total / 60 <= 2) {
             opcao = 1;
-            if (total % 60 >= 5 && (int) total / 60 == 2) {
-                opcao = 2;
-                total = total / 60 + 1;
-            } else if (total % 60 >= 5) {
-                total = total / 60 + 1;
-            } else {
-                total = total / 60;
-            }
         } else if ((int) total / 60 <= 4) {
             opcao = 2;
-            if (total % 60 >= 5 && (int) total / 60 == 4) {
-                opcao = 3;
-                total = total / 60 + 1;
-            } else if (total % 60 >= 5) {
-                total = total / 60 + 1;
-            } else {
-                total = total / 60;
-            }
         } else {
             opcao = 3;
-            if ((int) total % 60 >= 5) {
-                total = total / 60 + 1;
-            } else {
-                total = total / 60;
-            }
         }
-        
+
+        if (total % 60 >= 5 && ((int) total / 60 == 2 || (int) total / 60 == 4)) {
+            opcao += 1;
+            total = total / 60 + 1;
+        } else if (total % 60 >= 5) {
+            total = total / 60 + 1;
+        } else {
+            total = total / 60;
+        }
+
         switch (opcao) {
             case 1:
                 System.out.println("Tarifa: R$ " + total * 5);
