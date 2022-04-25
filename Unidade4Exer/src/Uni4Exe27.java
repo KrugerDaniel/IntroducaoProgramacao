@@ -24,35 +24,41 @@ public class Uni4Exe27 {
             total = 1440 + (partida - chegada);
         }
 
-        if (total < 30) {
+        if ((int) total / 60 < 2) {
             opcao = 1;
-            total = 60;
-        } else if ((int) total / 60 <= 2) {
-            opcao = 1;
-        } else if ((int) total / 60 <= 4) {
+        } else if ((int) total / 60 == 2) {
             opcao = 2;
-        } else {
+        } else if ((int) total / 60 == 3) {
             opcao = 3;
+        } else if ((int) total / 60 == 4) {
+            opcao = 4;
+        } else {
+            opcao = 5;
         }
 
-        if (total % 60 >= 5 && ((int) total / 60 == 2 || (int) total / 60 == 4)) {
+        if (opcao == 5 && (int) total % 60 >= 5) {
+            total = total / 60 + 1;
+        } else if (total % 60 >= 5 && !(total / 60 < 1)) {
             opcao += 1;
-            total = total / 60 + 1;
-        } else if (total % 60 >= 5) {
-            total = total / 60 + 1;
         } else {
-            total = total / 60;
+            total = (int) total / 60;
         }
 
         switch (opcao) {
             case 1:
-                System.out.println("Tarifa: R$ " + total * 5);
+                System.out.println("Tarifa: R$ 5");
                 break;
             case 2:
-                System.out.println("Tarifa: R$ " + total * 7.5d);
+                System.out.println("Tarifa: R$ 10");
                 break;
             case 3:
-                System.out.println("Tarifa: R$ " + total * 10);
+                System.out.println("Tarifa: R$ 17.50");
+                break;
+            case 4:
+                System.out.println("Tarifa: R$ 25");
+                break;
+            case 5:
+                System.out.println("Tarifa: R$ " + (25 + (total - 4) * 10));
                 break;
         }
 
