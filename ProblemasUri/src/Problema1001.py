@@ -1,8 +1,4 @@
-a = int(input())
-b = int(input())
-c = int(input())
-d = int(input())
+palavara = "nada"
 
-diferenca = (a * b - c * d)
-
-print("DIFERENCA =", diferenca)
+for string in palavara[::]:
+    print(string)

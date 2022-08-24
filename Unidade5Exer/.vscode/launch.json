@@ -1,0 +1,252 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Uni5Exe34",
+            "request": "launch",
+            "mainClass": "Uni5Exe34",
+            "projectName": "Unidade5Exer_915b01ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni5Exe33",
+            "request": "launch",
+            "mainClass": "Uni5Exe33",
+            "projectName": "Unidade5Exer_915b01ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni5Exe01",
+            "request": "launch",
+            "mainClass": "Uni5Exe01",
+            "projectName": "Unidade5Exer_915b01ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni5Exe02",
+            "request": "launch",
+            "mainClass": "Uni5Exe02",
+            "projectName": "Unidade5Exer_915b01ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni5Exe03",
+            "request": "launch",
+            "mainClass": "Uni5Exe03",
+            "projectName": "Unidade5Exer_915b01ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni5Exe04",
+            "request": "launch",
+            "mainClass": "Uni5Exe04",
+            "projectName": "Unidade5Exer_915b01ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni5Exe05",
+            "request": "launch",
+            "mainClass": "Uni5Exe05",
+            "projectName": "Unidade5Exer_915b01ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni5Exe06",
+            "request": "launch",
+            "mainClass": "Uni5Exe06",
+            "projectName": "Unidade5Exer_915b01ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni5Exe07",
+            "request": "launch",
+            "mainClass": "Uni5Exe07",
+            "projectName": "Unidade5Exer_915b01ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni5Exe08",
+            "request": "launch",
+            "mainClass": "Uni5Exe08",
+            "projectName": "Unidade5Exer_915b01ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni5Exe09",
+            "request": "launch",
+            "mainClass": "Uni5Exe09",
+            "projectName": "Unidade5Exer_915b01ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni5Exe10",
+            "request": "launch",
+            "mainClass": "Uni5Exe10",
+            "projectName": "Unidade5Exer_915b01ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni5Exe11",
+            "request": "launch",
+            "mainClass": "Uni5Exe11",
+            "projectName": "Unidade5Exer_915b01ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni5Exe12",
+            "request": "launch",
+            "mainClass": "Uni5Exe12",
+            "projectName": "Unidade5Exer_915b01ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni5Exe13",
+            "request": "launch",
+            "mainClass": "Uni5Exe13",
+            "projectName": "Unidade5Exer_915b01ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni5Exe14",
+            "request": "launch",
+            "mainClass": "Uni5Exe14",
+            "projectName": "Unidade5Exer_915b01ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni5Exe15",
+            "request": "launch",
+            "mainClass": "Uni5Exe15",
+            "projectName": "Unidade5Exer_915b01ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni5Exe16",
+            "request": "launch",
+            "mainClass": "Uni5Exe16",
+            "projectName": "Unidade5Exer_915b01ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni5Exe17",
+            "request": "launch",
+            "mainClass": "Uni5Exe17",
+            "projectName": "Unidade5Exer_915b01ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni5Exe18",
+            "request": "launch",
+            "mainClass": "Uni5Exe18",
+            "projectName": "Unidade5Exer_915b01ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni5Exe19",
+            "request": "launch",
+            "mainClass": "Uni5Exe19",
+            "projectName": "Unidade5Exer_915b01ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni5Exe20",
+            "request": "launch",
+            "mainClass": "Uni5Exe20",
+            "projectName": "Unidade5Exer_915b01ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni5Exe21",
+            "request": "launch",
+            "mainClass": "Uni5Exe21",
+            "projectName": "Unidade5Exer_915b01ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni5Exe22",
+            "request": "launch",
+            "mainClass": "Uni5Exe22",
+            "projectName": "Unidade5Exer_915b01ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni5Exe23",
+            "request": "launch",
+            "mainClass": "Uni5Exe23",
+            "projectName": "Unidade5Exer_915b01ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni5Exe24",
+            "request": "launch",
+            "mainClass": "Uni5Exe24",
+            "projectName": "Unidade5Exer_915b01ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni5Exe25",
+            "request": "launch",
+            "mainClass": "Uni5Exe25",
+            "projectName": "Unidade5Exer_915b01ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni5Exe26",
+            "request": "launch",
+            "mainClass": "Uni5Exe26",
+            "projectName": "Unidade5Exer_915b01ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni5Exe27",
+            "request": "launch",
+            "mainClass": "Uni5Exe27",
+            "projectName": "Unidade5Exer_915b01ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni5Exe28",
+            "request": "launch",
+            "mainClass": "Uni5Exe28",
+            "projectName": "Unidade5Exer_915b01ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni5Exe29",
+            "request": "launch",
+            "mainClass": "Uni5Exe29",
+            "projectName": "Unidade5Exer_915b01ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni5Exe30",
+            "request": "launch",
+            "mainClass": "Uni5Exe30",
+            "projectName": "Unidade5Exer_915b01ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni5Exe31",
+            "request": "launch",
+            "mainClass": "Uni5Exe31",
+            "projectName": "Unidade5Exer_915b01ba"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni5Exe32",
+            "request": "launch",
+            "mainClass": "Uni5Exe32",
+            "projectName": "Unidade5Exer_915b01ba"
+        }
+    ]
+}
